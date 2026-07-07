@@ -4,11 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+AI+Developer;Next.js+%26+MERN+Stack+Engineer;HCI+%26+Computer+Vision+Enthusiast;Building+Zylron+Ecosystem..." alt="Typing SVG" /></a>
 
   <p><b>Code. AI. Execution Momentum. ⚡</b></p>
-
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/t-thirumalai-944tv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://thirumalaivasan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:thirumalaivasan944@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
@@ -40,22 +35,28 @@
 
 ### 🚀 Featured Core Projects
 
-🔹 **ZYLRON 3.0 (AI Workspace Ecosystem)**
+🔹 **ZYLRON 3.0 (AI Workspace Ecosystem)**<br/>
 **Tech:** *Next.js, MERN Stack, AI Agents, Web3Forms*
 *   Engineered an enterprise-grade AI developer workspace with real-time generative UI rendering.
 *   🔗 **[Live Demo](https://zylron-agent-ai.vercel.app/)** | 🐙 **[GitHub Repository](https://github.com/Thirumalaivasan2007/Zylron-AI)**
 
-🔹 **ZYLRON SENSE (HCI Web App)**
+<br/>
+
+🔹 **ZYLRON SENSE (HCI Web App)**<br/>
 **Tech:** *Python, Computer Vision, React*
 *   Pushing the boundaries of Human-Computer Interaction (HCI) by leveraging webcam inputs to track hand gestures for hands-free navigation.
 *   🐙 **[GitHub Repository](https://github.com/Thirumalaivasan2007/Zylron-Sense)**
 
-🔹 **BITTU (Operating System Project)**
+<br/>
+
+🔹 **BITTU (Operating System Project)**<br/>
 **Tech:** *C++, Core OS Concepts*
 *   A foundational software engineering project focusing on the core mechanics of operating systems, resource management, and process execution.
 *   🐙 **[GitHub Repository](https://github.com/Thirumalaivasan2007/Bittu-OS)**
 
-🔹 **DEVELOPER PORTFOLIO**
+<br/>
+
+🔹 **DEVELOPER PORTFOLIO**<br/>
 **Tech:** *React, Tailwind CSS*
 *   My professional showcase built from the ground up and integrated with Web3Forms for seamless client communication.
 *   🔗 **[Live Demo](https://thirumalaivasan-portfolio-one.vercel.app/)** | 🐙 **[GitHub Repository](https://github.com/Thirumalaivasan2007/Portfolio-website)**
@@ -65,7 +66,7 @@
 ### 📊 System Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thirumalaivasan2007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thirumalaivasan2007&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thirumalaivasan2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -81,7 +82,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/t-thirumalai-944tv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:thirumalaivasan944@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:thirumalaivasan844@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Thirumalaivasan2007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://thirumalaivasan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>

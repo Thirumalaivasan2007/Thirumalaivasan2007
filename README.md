@@ -42,18 +42,23 @@
 
 🔹 **ZYLRON 3.0 (AI Workspace Ecosystem)**
 **Tech:** *Next.js, MERN Stack, AI Agents, Web3Forms*
-*   Engineered an enterprise-grade AI developer workspace.
-*   Features real-time generative UI rendering and high-level API security architecture.
-*   **Status:** Stability Achieved. Deployed on Vercel.
+*   Engineered an enterprise-grade AI developer workspace with real-time generative UI rendering.
+*   🔗 **[Live Demo](https://zylron-agent-ai.vercel.app/)** | 🐙 **[GitHub Repository](https://github.com/Thirumalaivasan2007/Zylron-AI)**
 
 🔹 **ZYLRON SENSE (HCI Web App)**
 **Tech:** *Python, Computer Vision, React*
-*   Pushing the boundaries of Human-Computer Interaction (HCI).
-*   Leverages webcam inputs to track hand gestures, allowing users to scroll, click, and navigate the web UI entirely hands-free.
+*   Pushing the boundaries of Human-Computer Interaction (HCI) by leveraging webcam inputs to track hand gestures for hands-free navigation.
+*   🐙 **[GitHub Repository](https://github.com/Thirumalaivasan2007/Zylron-Sense)**
 
 🔹 **BITTU (Operating System Project)**
 **Tech:** *C++, Core OS Concepts*
 *   A foundational software engineering project focusing on the core mechanics of operating systems, resource management, and process execution.
+*   🐙 **[GitHub Repository](https://github.com/Thirumalaivasan2007/Bittu-OS)**
+
+🔹 **DEVELOPER PORTFOLIO**
+**Tech:** *React, Tailwind CSS*
+*   My professional showcase built from the ground up and integrated with Web3Forms for seamless client communication.
+*   🔗 **[Live Demo](https://thirumalaivasan-portfolio-one.vercel.app/)** | 🐙 **[GitHub Repository](https://github.com/Thirumalaivasan2007/Portfolio-website)**
 
 ---
 
@@ -68,6 +73,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalaivasan2007&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/t-thirumalai-944tv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:thirumalaivasan844@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Thirumalaivasan2007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://thirumalaivasan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br/>

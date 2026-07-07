@@ -4,74 +4,60 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+AI+Developer;Next.js+%26+MERN+Stack+Engineer;HCI+%26+Computer+Vision+Enthusiast;Building+Zylron+Ecosystem..." alt="Typing SVG" /></a>
 
   <p><b>Code. AI. Execution Momentum. ⚡</b></p>
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/t-thirumalai-944tv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.zylronai.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
-### 👨‍💻 ABOUT THE DEVELOPER
-I am a 2nd-year Computer Science Engineering student at Velalar College of Engineering and Technology, operating out of Anthiyur, Tamil Nadu. My current focus is at the intersection of robust Full-Stack Web Development (Next.js/MERN) and Artificial Intelligence. 
+### 👨‍💻 About The Developer
 
-When I am not writing complex algorithms or debugging syntax errors, you can find me pushing my RTX 3050 to its limits, grinding 90 FPS in high-stakes esports matches with Autobotz, or analyzing the strategic depth of Magnus Carlsen's chess endgames.
-
-- 🔭 **Current Mission:** Developing **Zylron Sense**, an advanced Human-Computer Interaction (HCI) web app to control UI elements via hand gestures using computer vision.
-- 🚀 **Latest Milestone:** Deployed **Zylron 3.0** – an enterprise-grade AI Developer Workspace. *Status: Stability Achieved.*
-- 🎓 **Academics & Certifications:** NPTEL Certified in *Introduction to Internet of Things (IoT)*.
-- 💻 **Core Focus:** Generative UI, API Architecture, and building frictionless web ecosystems.
+*   🎓 **2nd-year CSE Student** at Velalar College of Engineering and Technology, Anthiyur.
+*   💻 **Full-Stack AI Developer** specializing in Next.js, MERN stack, and Generative UI architectures.
+*   👁️ **HCI Enthusiast** heavily focused on Computer Vision and gesture-based web integrations.
+*   🏅 **Certified** in *Introduction to Internet of Things (IoT)* via NPTEL.
+*   🎮 **Beyond Code:** Pushing my RTX hardware limits, grinding 90 FPS in competitive esports with Team Autobotz, and analyzing the deep endgames of Magnus Carlsen.
 
 ---
 
-### 🛠️ TECHNOLOGY ARSENAL
+### 🛠️ Tech Stack & Arsenal
 
-<details>
-  <summary><b>⚡ Programming Languages</b></summary>
-  <br/>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
-</details>
+#### Frontend Architecture
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
 
-<details>
-  <summary><b>🌐 Frameworks & Libraries</b></summary>
-  <br/>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS"></code>
-</details>
+#### Backend & Databases
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
 
-<details>
-  <summary><b>💾 Databases & Tools</b></summary>
-  <br/>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></code>
-  <!-- Note: Core Java utilizes Collections and JDBC -->
-</details>
+#### Core Languages & Fundamentals
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+
+*(Note: Advanced Java application via Collections & JDBC)*
 
 ---
 
-### 🚀 CORE PROJECTS
+### 🚀 Featured Core Projects
 
-#### 🌌 ZYLRON 3.0 (AI Workspace Ecosystem)
-An advanced, enterprise-grade AI developer workspace built with the MERN stack. Features real-time generative UI rendering, dynamic dashboards, and high-level API security architecture. 
-*🔗 Live on Vercel.*
+🔹 **ZYLRON 3.0 (AI Workspace Ecosystem)**
+**Tech:** *Next.js, MERN Stack, AI Agents, Web3Forms*
+*   Engineered an enterprise-grade AI developer workspace.
+*   Features real-time generative UI rendering and high-level API security architecture.
+*   **Status:** Stability Achieved. Deployed on Vercel.
 
-#### 👁️ ZYLRON SENSE (HCI Web App)
-Pushing the boundaries of Human-Computer Interaction. This project leverages computer vision and webcam inputs to track hand gestures, allowing users to scroll, click, and navigate the web UI entirely hands-free.
+🔹 **ZYLRON SENSE (HCI Web App)**
+**Tech:** *Python, Computer Vision, React*
+*   Pushing the boundaries of Human-Computer Interaction (HCI).
+*   Leverages webcam inputs to track hand gestures, allowing users to scroll, click, and navigate the web UI entirely hands-free.
 
-#### ⚙️ BITTU (Operating System Project)
-A core software engineering project focusing on the foundational mechanics of operating systems, resource management, and process execution.
-
-#### 📂 DEVELOPER PORTFOLIO
-My professional showcase built from the ground up and deployed on Vercel, integrated with Web3Forms for seamless client communication.
+🔹 **BITTU (Operating System Project)**
+**Tech:** *C++, Core OS Concepts*
+*   A foundational software engineering project focusing on the core mechanics of operating systems, resource management, and process execution.
 
 ---
 
-### 📊 SYSTEM ANALYTICS
+### 📊 System Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thirumalaivasan2007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -84,7 +70,8 @@ My professional showcase built from the ground up and deployed on Vercel, integr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalaivasan2007&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
----
+<br/>
+
 <div align="center">
   <i>"Absolute master control. Pure execution momentum."</i>
 </div>
